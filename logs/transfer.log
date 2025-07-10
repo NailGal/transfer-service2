@@ -1,36 +1,12 @@
-2025-07-03 07:25:38.469 [background-preinit] INFO  org.hibernate.validator.internal.util.Version - HV000001: Hibernate Validator 8.0.1.Final
-2025-07-03 07:25:38.507 [main] INFO  ru.netolgy.application.TransferServiceApplication - Starting TransferServiceApplication v1.0-SNAPSHOT using Java 21 with PID 1 (/app/app.jar started by root in /app)
-2025-07-03 07:25:38.511 [main] INFO  ru.netolgy.application.TransferServiceApplication - No active profile set, falling back to 1 default profile: "default"
-2025-07-03 07:25:39.249 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port 5500 (http)
-2025-07-03 07:25:39.258 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-5500"]
-2025-07-03 07:25:39.262 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
-2025-07-03 07:25:39.263 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.28]
-2025-07-03 07:25:39.286 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/transfer] - Initializing Spring embedded WebApplicationContext
-2025-07-03 07:25:39.287 [main] INFO  org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 734 ms
-2025-07-03 07:25:39.527 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-5500"]
-2025-07-03 07:25:39.548 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port 5500 (http) with context path '/transfer'
-2025-07-03 07:25:39.556 [main] INFO  ru.netolgy.application.TransferServiceApplication - Started TransferServiceApplication in 1.361 seconds (process running for 2.315)
-2025-07-03 10:27:41.164 [background-preinit] INFO  org.hibernate.validator.internal.util.Version - HV000001: Hibernate Validator 8.0.1.Final
-2025-07-03 10:27:41.208 [main] INFO  ru.netolgy.application.TransferServiceApplication - Starting TransferServiceApplication v1.0-SNAPSHOT using Java 21 with PID 1 (/app/app.jar started by root in /app)
-2025-07-03 10:27:41.212 [main] INFO  ru.netolgy.application.TransferServiceApplication - No active profile set, falling back to 1 default profile: "default"
-2025-07-03 10:27:41.898 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port 5500 (http)
-2025-07-03 10:27:41.908 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-5500"]
-2025-07-03 10:27:41.912 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
-2025-07-03 10:27:41.913 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.28]
-2025-07-03 10:27:41.936 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/transfer] - Initializing Spring embedded WebApplicationContext
-2025-07-03 10:27:41.938 [main] INFO  org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 692 ms
-2025-07-03 10:27:42.179 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-5500"]
-2025-07-03 10:27:42.197 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port 5500 (http) with context path '/transfer'
-2025-07-03 10:27:42.205 [main] INFO  ru.netolgy.application.TransferServiceApplication - Started TransferServiceApplication in 1.321 seconds (process running for 2.314)
-2025-07-03 10:32:50.948 [background-preinit] INFO  org.hibernate.validator.internal.util.Version - HV000001: Hibernate Validator 8.0.1.Final
-2025-07-03 10:32:50.987 [main] INFO  ru.netolgy.application.TransferServiceApplication - Starting TransferServiceApplication v1.0-SNAPSHOT using Java 21 with PID 1 (/app/app.jar started by root in /app)
-2025-07-03 10:32:50.990 [main] INFO  ru.netolgy.application.TransferServiceApplication - No active profile set, falling back to 1 default profile: "default"
-2025-07-03 10:32:51.718 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port 5500 (http)
-2025-07-03 10:32:51.729 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-5500"]
-2025-07-03 10:32:51.732 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
-2025-07-03 10:32:51.733 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.28]
-2025-07-03 10:32:51.757 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/transfer] - Initializing Spring embedded WebApplicationContext
-2025-07-03 10:32:51.759 [main] INFO  org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 730 ms
-2025-07-03 10:32:52.023 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-5500"]
-2025-07-03 10:32:52.044 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port 5500 (http) with context path '/transfer'
-2025-07-03 10:32:52.051 [main] INFO  ru.netolgy.application.TransferServiceApplication - Started TransferServiceApplication in 1.383 seconds (process running for 2.344)
+2025-07-10 07:19:38.823 [background-preinit] INFO  org.hibernate.validator.internal.util.Version - HV000001: Hibernate Validator 8.0.1.Final
+2025-07-10 07:19:38.861 [main] INFO  ru.netolgy.application.TransferServiceApplication - Starting TransferServiceApplication v1.0-SNAPSHOT using Java 21 with PID 1 (/app/app.jar started by root in /app)
+2025-07-10 07:19:38.865 [main] INFO  ru.netolgy.application.TransferServiceApplication - No active profile set, falling back to 1 default profile: "default"
+2025-07-10 07:19:39.598 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port 5500 (http)
+2025-07-10 07:19:39.609 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-5500"]
+2025-07-10 07:19:39.613 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2025-07-10 07:19:39.613 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.28]
+2025-07-10 07:19:39.637 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/transfer] - Initializing Spring embedded WebApplicationContext
+2025-07-10 07:19:39.639 [main] INFO  org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 738 ms
+2025-07-10 07:19:39.890 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-5500"]
+2025-07-10 07:19:39.913 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port 5500 (http) with context path '/transfer'
+2025-07-10 07:19:39.921 [main] INFO  ru.netolgy.application.TransferServiceApplication - Started TransferServiceApplication in 1.388 seconds (process running for 2.509)
